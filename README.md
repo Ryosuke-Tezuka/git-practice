@@ -1,1 +1,1 @@
-# git-practicetest2
+# git-practice/samurai_champloo
